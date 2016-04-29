@@ -1,2 +1,5 @@
 # hello-world
-Projet Hello-world avec github
+
+Hello world, 
+
+This is just a " Getting-started " using GitHub
